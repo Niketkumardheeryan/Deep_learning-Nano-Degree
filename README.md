@@ -4,9 +4,23 @@
 
 # Topics covered
 #### Introduction of Anaconda or jupyter Notebook
-     @ Jupyter Notebook is a web app & Anaconda is a
-      Software distribution, package or Environment manager. 
-CNN
+      Jupyter Notebook is a web app
+      >> Magic word like % or %%
+      >>can be accessed any where by using cloud computing .
+      
+     > & Anaconda is a
+     >> Software distribution, package or Environment manager.\
+     
+     
+     
+### Neural networks Fundamentals 
+    >>Error function 
+    >>Discrete(Step funcion) or continuous(sigmoid) Error functions
+    >>Softmax error function for multiclass classification
+                               
+                                 
+                                 
+CNN                                 
 
 RNN
 
