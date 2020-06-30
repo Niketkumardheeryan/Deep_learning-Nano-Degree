@@ -17,7 +17,7 @@
     >>Error function 
     >>Discrete(Step funcion) or continuous(sigmoid) Error functions
     >>Softmax error function for multiclass classification
-                               
+    ###   Gradient Descent Algorithm                     
                                  
                                  
 CNN                                 
