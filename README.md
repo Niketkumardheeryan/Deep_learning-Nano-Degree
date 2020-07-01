@@ -17,7 +17,9 @@
     >>Error function 
     >>Discrete(Step funcion) or continuous(sigmoid) Error functions
     >>Softmax error function for multiclass classification
-    ###   Gradient Descent Algorithm                     
+    #####  Gradient Descent Algorithm    
+           GDA= - learning rate * gradient 
+            In simple words - ve slope for improve error function 
                                  
                                  
 CNN                                 
