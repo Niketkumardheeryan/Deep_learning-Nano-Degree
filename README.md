@@ -14,14 +14,21 @@
      
      
 ### Neural networks Fundamentals 
+    >>Perceptron algorithm 
     >>Error function 
     >>Discrete(Step funcion) or continuous(sigmoid) Error functions
     >>Softmax error function for multiclass classification
     #####  Gradient Descent Algorithm    
            GDA= - learning rate * gradient 
-            In simple words - ve slope for improve error function 
+            In simple words - ve slope for improve error function
+            
+      ####      Cross Entropy = -(sigma of ln(probability of predictions))
+                           it shows how accurate a neural network workikng .
                                  
-                                 
+     #### Feed forwardation -->> process to take inputs and get final output 
+     
+     #### Backpropagation
+     
 CNN                                 
 
 RNN
