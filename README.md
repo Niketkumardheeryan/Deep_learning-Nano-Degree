@@ -27,7 +27,7 @@
                                  
      #### Feed forwardation -->> process to take inputs and get final output 
      
-     #### Backpropagation
+     #### Backpropagation  is the central mechanism by which neural networks learn.
      
 CNN                                 
 
