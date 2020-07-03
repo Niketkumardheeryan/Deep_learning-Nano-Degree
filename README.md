@@ -28,6 +28,11 @@
      #### Feed forwardation -->> process to take inputs and get final output 
      
      #### Backpropagation  is the central mechanism by which neural networks learn.
+   
+### Implementation of Gradient Descent with Multilayer perceptron
+
+### Training of neural networks 
+     
      
 CNN                                 
 
