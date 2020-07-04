@@ -3,7 +3,7 @@
 ### Advance  Deep learning 
 
 # Topics covered
-#### Introduction of Anaconda or jupyter Notebook
+### Introduction of Anaconda or jupyter Notebook
       Jupyter Notebook is a web app
       >> Magic word like % or %%
       >>can be accessed any where by using cloud computing .
@@ -22,7 +22,7 @@
            GDA= - learning rate * gradient 
             In simple words - ve slope for improve error function
             
-      ####      Cross Entropy = -(sigma of ln(probability of predictions))
+      #### Cross Entropy = -(sigma of ln(probability of predictions))
                            it shows how accurate a neural network workikng .
                                  
      #### Feed forwardation -->> process to take inputs and get final output 
@@ -32,6 +32,11 @@
 ### Implementation of Gradient Descent with Multilayer perceptron
 
 ### Training of neural networks 
+
+    overfitting vs underfitting ->> *in overfitting* training error is low but Testing error is high, *in underfittinng* Both errors
+     are high.
+     
+     /* Technique to remove overfitting*/ ->> Regularization  (L1,L2)
      
      
 CNN                                 
