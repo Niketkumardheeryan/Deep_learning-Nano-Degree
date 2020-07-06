@@ -36,8 +36,15 @@
     overfitting vs underfitting ->> *in overfitting* training error is low but Testing error is high, *in underfittinng* Both errors
      are high.
      
-     /* Technique to remove overfitting*/ ->> Regularization  (L1,L2)
-     
+     1./* Technique to remove overfitting*/ ->> Regularization  (L1,L2)
+     2.[Dropout] : in this technique we drop some nodes which has more weight already or train only less
+                   Weight contain nodes. 
+* [Types of Gradient descent]:
+  * 1.Batch GD : take all data point in each epoch
+  * 2. Stochastic GD : Take different data-sets in each epoch
+  * 3.Mini Batch Gd : SGD + BGD
+
+## Introduction to Pytorch 
      
 CNN                                 
 
