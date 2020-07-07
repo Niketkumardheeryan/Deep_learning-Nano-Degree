@@ -45,7 +45,7 @@
   * 3.Mini Batch Gd : SGD + BGD
 
 ## Introduction to Pytorch 
- * A DL framework develop by FB Ai research team
+ * A DL framework develope by FB Ai research team
  * Faster than Tensorflow 
  * Neural networks from scratch 
  * Torchvision library for importing different types of Vision data set 
