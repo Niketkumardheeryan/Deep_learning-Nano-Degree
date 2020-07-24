@@ -51,7 +51,9 @@
  * Torchvision library for importing different types of Vision data set 
     Ex. MNSIT digit Recognition.. 🤗 
      
-CNN                                 
+## CNN
+  * Better than MLP ,beacause In cnn layer each node is not connected to every node of Next layer Only Required ones  
+  * 4 types of filters used in cnnn layer
 
 RNN
 
