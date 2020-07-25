@@ -54,6 +54,8 @@
 ## CNN
   * Better than MLP ,beacause In cnn layer each node is not connected to every node of Next layer Only Required ones  
   * 4 types of filters used in cnnn layer
+   ### Structure of code in Pytorch 
+       CNN layer -relu- > Max pooling - - >cNN layer-relu-pooling... + 3 normal layer Then apply softmax or any other activation function
 
 RNN
 
