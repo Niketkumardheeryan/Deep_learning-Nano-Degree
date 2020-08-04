@@ -52,12 +52,17 @@
     Ex. MNSIT digit Recognition.. 🤗 
      
 ## CNN
+
   * Better than MLP ,beacause In cnn layer each node is not connected to every node of Next layer Only Required ones  
   * 4 types of filters used in cnnn layer
+  * Applications: Style transfer, Transfer learning as VGG16,VGG19 trained with Image net dataset
+ ### Transfer learning 
+   *pretrained models
    ### Structure of code in Pytorch 
        CNN layer -relu- > Max pooling - - >cNN layer-relu-pooling... + 3 normal layer Then apply softmax or any other activation function
 
-RNN
+## RNN
+  Recurrent Neural network introduce memory in neural network  
 
 GAN
 
