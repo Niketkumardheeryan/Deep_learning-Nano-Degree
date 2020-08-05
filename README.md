@@ -63,6 +63,10 @@
 
 ## RNN
   Recurrent Neural network introduce memory in neural network  
+ * Specially working area -Text processing Chat bot,Shri,GOOgle assistant
+ * *problem -Gradient vanishing
+ * LSTM  Resolve this problem
+ * LSTM used 4 *Gates in model 
 
 GAN
 
