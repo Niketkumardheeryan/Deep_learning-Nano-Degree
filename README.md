@@ -72,8 +72,7 @@
  * Generator Adversial Network "Produce fake images based on given images or data"
  * GAN uses 2 models "Discriminator + Generator" 
  * Discriminator is a simple network classofy 
-
-  real images or produce real images
-  but Generator produce Fake images By creating Errors in Model.
+     real images or produce real images
+     but Generator produce Fake images By creating Errors in Model.
 
 ## MOdel DEPLOY
