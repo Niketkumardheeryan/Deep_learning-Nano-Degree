@@ -74,5 +74,6 @@
  * Discriminator is a simple network classofy 
      real images or produce real images
      but Generator produce Fake images By creating Errors in Model.
-   ###DCGAN
+
+  ### DCGAN
 ## MOdel DEPLOY
