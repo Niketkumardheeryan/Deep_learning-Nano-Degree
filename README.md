@@ -1,14 +1,16 @@
 # Deep_learning-Nano-Degree
 
+## Abstract 
+
 ### Advance  Deep learning 
 
 # Topics covered
 ### Introduction of Anaconda or jupyter Notebook
-      Jupyter Notebook is a web app
-      >> Magic word like % or %%
-      >>can be accessed any where by using cloud computing .
+   #### Jupyter Notebook is a web app
+   * Magic word like % or %%
+   * can be accessed any where by using cloud computing .
       
-     > & Anaconda is a
+   * & Anaconda is a
      >> Software distribution, package or Environment manager.\
      
      
