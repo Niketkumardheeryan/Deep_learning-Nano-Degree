@@ -5,6 +5,13 @@
 ### Advance  Deep learning 
 
 # Topics covered
+ 1. ANN
+ 2. CNN
+ 3. RNN & LSTM
+ 4. GAN
+ 5. Transfer learning 
+
+
 ### Introduction of Anaconda or jupyter Notebook
    #### Jupyter Notebook is a web app
    * Magic word like % or %%
