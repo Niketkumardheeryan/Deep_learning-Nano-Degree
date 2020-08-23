@@ -10,6 +10,8 @@
  3. RNN & LSTM
  4. GAN
  5. Transfer learning 
+ 6. style transfer
+ 7. Intro to jupyter Notebooks
 
 
 ### Introduction of Anaconda or jupyter Notebook
